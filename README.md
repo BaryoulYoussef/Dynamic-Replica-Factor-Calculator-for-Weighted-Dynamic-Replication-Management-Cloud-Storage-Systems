@@ -403,9 +403,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please open an issue on GitHub or contact:
 
-- **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **Email:** baryouly@gmail.com / salimkhaskhoussi@gmail.com / 	Dabbech.rihab2019@gmail.com
+- **GitHub:** [@BaryoulYoussef](https://github.com/BaryoulYoussef) 
+- **LinkedIn:** [Youssef Baryoul](https://www.linkedin.com/in/youssef-baryoul/)
 
 ---
 
